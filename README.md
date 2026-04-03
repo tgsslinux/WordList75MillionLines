@@ -8,12 +8,13 @@ Olá, resolvi criar essa WordList juntando várias outras, ou seja, tipo um "pac
 * Como usar:
 Para juntar as partes rode esse comando: <br>
 cat wordlist75M.part_* > wordlist75_million_lines.tar.gz <br>
+
 Para extrair use esse: <br>
 tar -xvzf wordlist75_million_lines.tar.gz 
 
 * WordLists usadas:
-Rock You 
-SecLists (https://github.com/danielmiessler/SecLists)
+Rock You <br>
+SecLists (https://github.com/danielmiessler/SecLists) <br>
 E algumas WordLists desse repositório: (https://github.com/BRDumps/wordlists/tree/master)
 
 No futuro provavelmente adicionarei mais WordLists nesse Pack.
