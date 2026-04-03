@@ -3,7 +3,7 @@ WordList com 75.975.835 linhas
 
 Olá, resolvi criar essa WordList juntando várias outras, ou seja, tipo um "pack" de WordLists
 
-* Tem várias senhas filtradas, eu tirei linhas inúteis também, como restos de invasão, hashtags(#), e símbolos que definitivamente não são senhas
+Tem várias senhas filtradas, eu tirei linhas inúteis também, como restos de invasão, hashtags(#), e símbolos que definitivamente não são senhas
 
 ### Como usar:
 Para juntar as partes rode esse comando: 
@@ -17,4 +17,4 @@ Para extrair use esse:
  * SecLists (https://github.com/danielmiessler/SecLists) 
  * E algumas WordLists desse repositório: (https://github.com/BRDumps/wordlists/tree/master)
 
-* No futuro provavelmente adicionarei mais WordLists nesse Pack.
+No futuro provavelmente adicionarei mais WordLists nesse Pack.
